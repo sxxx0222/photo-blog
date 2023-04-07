@@ -12,7 +12,7 @@ body {
 .header {
     width: 1500px;
     position: relative;
-    background-image: linear-gradient(to bottom, rgba(40,39,42, 0.5) 0%, rgba(40,39,42, 1) 100%), url('./img/mountain-lake-lodge.jpg');
+    background-image: linear-gradient(to bottom, rgba(40,39,42, 0.5) 0%, rgba(40,39,42, 1) 100%), url('mountain-lake-lodge.jpg');
     background-size: cover;
     height: 800px;
     display: flex;
@@ -481,7 +481,7 @@ body {
 .mountain {
     width: 1500px;
     position: relative;
-    background-image: linear-gradient(to bottom, rgba(40,39,42, 1) 0%, rgba(40,39,42, 0.6) 33%, rgba(40,39,42, 1) 66%, rgba(40,39,42, 1) 100%), url('./img/mountain.avif');
+    background-image: linear-gradient(to bottom, rgba(40,39,42, 1) 0%, rgba(40,39,42, 0.6) 33%, rgba(40,39,42, 1) 66%, rgba(40,39,42, 1) 100%), url('mountain.avif');
     background-size: cover;
     height: auto;
     display: flex;
